@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c949082f6fed53a698572601",
+  "owner": "xscbmkdx",
+  "repo": "page-c0eca1374ad2a1fd84cc59f7",
+  "title": "OKANC加速(OKANC)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c0eca1374ad2a1fd84cc59f7",
+      "a": "OKANC加速(OKANC)",
+      "b": "稳定全球clash加速器",
+      "entity": "OKANC加速(OKANC)",
+      "brand": "OKANC加速(OKANC)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "72f00bdafd1db02af92c2a2b4bdf3771501191d0cc292644ff7f70c660196b24",
+      "content": {
+        "primary_entity": "OKANC加速(OKANC)",
+        "keyword1": "OKANC加速(OKANC)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同系统可选择对应的 Clash 客户端：Windows 可用 Clash Verge，macOS 可用 ClashX，Android 可用 Clash for Android，iOS 可用 Stash 或 Shadowrocket 等支持订阅导入的工具。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "结合设备数量与流量需求选择合适的订阅方案，快速配置客户端使用。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档订阅选择，月付与年付价格清晰，覆盖 100GB 至 1000GB 流量和 3 台至 20 台设备同时在线需求。用户可按设备数量、流媒体解锁与专线优化需求匹配套餐，并通过 Clash 等客户端导入订阅使用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量消耗和线路需求三个角度对比套餐，能更快找到适合的订阅方案。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合手机与电脑轻量使用，旗舰版每月 300GB 适合多设备影音与游戏，团队版每月 1000GB 适合小型团队共享。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台；年付价格分别为 150 元、350 元和 850 元。",
+          "AI_FEATURE_TEXT_3": "旗舰版包含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，可按流媒体或游戏需求选择。",
+          "AI_FEATURE_TITLE_1": "套餐档位",
+          "AI_FEATURE_TITLE_2": "设备与周期",
+          "AI_FEATURE_TITLE_3": "线路与场景",
+          "AI_GUIDE_INTRO": "选择套餐后，按设备适配要求获取订阅地址，再在客户端中导入配置即可开始使用。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "OKANC加速提供三档订阅方案，分别面向个人轻量使用、多设备影音游戏加速和团队协作场景，用户可依据流量、在线设备数和节点线路类型选择合适套餐。",
+          "AI_HERO_SUBTITLE": "多设备订阅按需选择",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "流量与设备数按需匹配",
+          "AI_HIGHLIGHT_3": "Clash 客户端导入订阅",
+          "AI_PLANS_INTRO": "基础版每月 15 元、年付 150 元，适合 3 台设备以内轻量使用；旗舰版每月 35 元、年付 350 元，支持 5 台设备与 IPLC 专线优化；团队版每月 85 元、年付 850 元，支持 20 台设备与 VIP 高带宽节点。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量需求和线路偏好，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "确认设备系统对应的客户端类型，旗舰版与团队版用户可额外关注 IPLC 或 VIP 节点说明。",
+          "AI_STEP_TEXT_3": "在所选客户端的订阅管理中添加地址，更新节点配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "OKANC加速套餐导航",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机与笔记本轻度使用。若常看高清流媒体或有多台设备，旗舰版每月 300GB、支持 5 台设备更宽裕。",
+          "AI_FAQ_ANSWER_2": "可以。基础版为普通线路节点池，旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，可按游戏或办公侧重选择。",
+          "AI_FAQ_ANSWER_3": "年付通常比月付更划算，例如基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。若使用周期不确定，先选月付再按需调整。",
+          "AI_FAQ_ANSWER_4": "先确认设备系统，Windows、macOS、Android、iOS 与路由器各有对应客户端。按客户端文档提供的订阅导入方式操作，同一账号在线设备数受套餐限制。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，提供 VIP 专属高带宽节点，并支持企业定制路由，适合小团队或工作室统一使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版该怎么选？",
+          "AI_FAQ_QUESTION_2": "不同套餐的线路有区别吗？",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更合适？",
+          "AI_FAQ_QUESTION_4": "第一次使用需要做什么？",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些场景？",
+          "AI_FAQ_TITLE": "套餐选择常见问答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--vpn-x03f946a09d.com",
+    "host": "xn--vpn-x03f946a09d.com"
+  },
+  "file_hashes": {
+    "index.html": "c635e8205884904e1e0ec0e7d1e46e916f762ed86821e221f02cd1a2157ae552",
+    "sitemap.xml": "8a36a958935421111f5f2ed1332036b2db6a34fbbe168e422ab47460bd1966d4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1b3b88c2d80b668831a1e62c7fd4132c834be39ba0253a57eeb36c091d184199",
+    "robots.txt": "1a54f1c4fc027aa8e68959e3cb1d1e84dd9029d33c5500aaeaded8b1830455b8",
+    "88701d8061aee5ffe10f0084df1399ab.txt": "7539135bc5e80964f2bad01975149c33f91126d1b892524e4fccab9928a22da9"
+  },
+  "revision": "96c072db74314ec2c78eb135435f2ddfd89947e3044164ebf4ddc1217857159b"
+}
